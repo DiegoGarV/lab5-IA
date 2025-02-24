@@ -1,18 +1,28 @@
-# Laboratorio 5 - Inteligencia artificial
+# Laboratorio 5 - Inteligencia Artificial
 
-Diego García 22404 <br/>
-César López 22535
+**Autores:**
 
-## Acerca del programa
+- Diego García 22404
+- César López 22535
 
-Carga una imagen de laberinto, la discretiza y devuelve la matriz del laberinto junto con el inicio y las metas. Además, guarda la imagen discretizada en una carpeta _laberintos_discretos_.
+## Acerca del Programa
 
-- Instalar cv2 con
+Este programa carga una imagen de un laberinto, la discretiza y devuelve la matriz del laberinto junto con el inicio y las metas. Además, guarda la imagen discretizada en una carpeta `_laberintos_discretos_`.
 
-```
+## Instalación
+
+Para instalar las dependencias necesarias, ejecuta el siguiente comando:
+
+```bash
 pip install opencv-python
-
 ```
 
-- Funcionamiento:
-  https://youtu.be/dw4mAu-k7MA
+## Funcionamiento
+
+Para ver una demostracion del funcionamiento del programa, visita el siguiente enlace:
+
+```bash
+https://youtu.be/dw4mAu-k7MA
+```
+
+<img alt="Video de Funcionamiento" src="https://img.youtube.com/vi/dw4mAu-k7MA/0.jpg">
