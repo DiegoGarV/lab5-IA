@@ -5,9 +5,6 @@ import matplotlib.pyplot as plt
 
 
 def process_image(image_path, grid_size=20):
-    """Carga una imagen de laberinto, la discretiza y devuelve la matriz del laberinto junto con el inicio y las metas.
-    Además, guarda la imagen discretizada en una carpeta discret_labs."""
-
     # Cargar la imagen
     image = cv2.imread(image_path)
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
