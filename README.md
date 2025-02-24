@@ -19,10 +19,7 @@ pip install opencv-python
 
 ## Funcionamiento
 
-Para ver una demostracion del funcionamiento del programa, visita el siguiente enlace:
-
-```bash
-https://youtu.be/dw4mAu-k7MA
-```
+Para ver una demostracion del funcionamiento del programa, se realizo un [video](https://youtu.be/dw4mAu-k7MA)
+mostrando el funcionamiento del programa
 
 <img alt="Video de Funcionamiento" src="https://img.youtube.com/vi/dw4mAu-k7MA/0.jpg">
